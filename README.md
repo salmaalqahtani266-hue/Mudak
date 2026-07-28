@@ -1,7 +1,7 @@
 # Madak - Home Maintenance Services Platform
 
 <p align="center">
-  <img src="madak.png" alt="Madak Logo" width="220">
+  <img src="madak.png" alt="Madak Logo" width="700">
 </p>
 
 ## Academic Project
