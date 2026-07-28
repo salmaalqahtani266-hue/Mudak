@@ -1,4 +1,4 @@
-# Madak - Home Maintenance Services Platform
+# Mudak - Home Maintenance Services Platform
 
 <p align="center">
   <img src="madak.png" alt="Madak Logo" width="700">
@@ -6,7 +6,7 @@
 
 ## Academic Project
 
-Madak is a web-based home maintenance platform developed as an academic project. It connects users with qualified technicians for various home services through a simple and user-friendly interface.
+Mudak is a web-based home maintenance platform developed as an academic project. It connects users with qualified technicians for various home services through a simple and user-friendly interface.
 
 ## Features
 
